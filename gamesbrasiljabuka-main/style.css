@@ -1,0 +1,11 @@
+h1{
+    height: 70px;
+    background-color: red; /* For browsers that do not support gradients */
+    background-image: linear-gradient(red, yellow);
+    animation-name: titulo;
+}
+body{
+    background-color: lightblue; /* For browsers that do not support gradients */
+    background-image: linear-gradient(blue, yellow);
+    height: 1000px;
+}
